@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dreamworld/static/css/main.a7e0c6fc.css",
+    "main.js": "/dreamworld/static/js/main.96382b61.js",
+    "index.html": "/dreamworld/index.html",
+    "main.a7e0c6fc.css.map": "/dreamworld/static/css/main.a7e0c6fc.css.map",
+    "main.96382b61.js.map": "/dreamworld/static/js/main.96382b61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7e0c6fc.css",
+    "static/js/main.96382b61.js"
+  ]
+}
