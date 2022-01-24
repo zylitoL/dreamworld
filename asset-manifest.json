@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/dreamworld/static/css/main.a7e0c6fc.css",
-    "main.js": "/dreamworld/static/js/main.96382b61.js",
+    "main.css": "/dreamworld/static/css/main.d1bdf63d.css",
+    "main.js": "/dreamworld/static/js/main.ac35b5c4.js",
     "index.html": "/dreamworld/index.html",
-    "main.a7e0c6fc.css.map": "/dreamworld/static/css/main.a7e0c6fc.css.map",
-    "main.96382b61.js.map": "/dreamworld/static/js/main.96382b61.js.map"
+    "main.d1bdf63d.css.map": "/dreamworld/static/css/main.d1bdf63d.css.map",
+    "main.ac35b5c4.js.map": "/dreamworld/static/js/main.ac35b5c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7e0c6fc.css",
-    "static/js/main.96382b61.js"
+    "static/css/main.d1bdf63d.css",
+    "static/js/main.ac35b5c4.js"
   ]
 }
